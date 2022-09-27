@@ -1,9 +1,12 @@
-[class*="col"]{
+/* [class*="col"]{
     border: 1px solid black;
 }
+ */
 
-
-
+/* commo */
+img{
+    max-width: 100%;
+}
 /* header */
 
 header .container-fluid{
@@ -11,7 +14,7 @@ header .container-fluid{
     height: 50px;
 }
 
-h1{
+header h2{
     font-size: 1rem;
 }
 
@@ -24,3 +27,32 @@ header ul li{
 }
 
 /* main */
+
+/* start section */
+#start{
+    color: white;
+}
+#start .container-fluid{
+    background-color: #1ABC9C;
+}
+
+ #start img{
+    width: 30%;
+ }
+ #start hr {
+    border: 2px solid white;
+ }
+
+ #start h3{
+    font-size: 0.8rem;
+ }
+
+ /* portfolio section */
+
+ #portfolio .container-fluid{
+    background-color: white;
+ }
+
+ #portfolio h2{
+    font-size: 0.9rem;
+ }
