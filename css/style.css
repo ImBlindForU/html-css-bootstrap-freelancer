@@ -64,4 +64,15 @@ header ul li{
     color: white;
 }
 
-/* contact sectionb */
+/* footer top  section  */
+
+
+#top-footer .container-fluid{
+    background-color: #3A546D;
+}
+
+
+/* footer bottom  section  */
+#bottom-footer .container-fluid{
+    background-color: #2C3E50;
+}
