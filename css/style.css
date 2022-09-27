@@ -56,3 +56,12 @@ header ul li{
  #portfolio h2{
     font-size: 0.9rem;
  }
+
+/* about section */
+
+#about .container-fluid{
+    background-color: #1ABC9C;
+    color: white;
+}
+
+/* contact sectionb */
