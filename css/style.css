@@ -1,0 +1,26 @@
+[class*="col"]{
+    border: 1px solid black;
+}
+
+
+
+/* header */
+
+header .container-fluid{
+    background-color:#2C3E50 ;
+    height: 50px;
+}
+
+h1{
+    font-size: 1rem;
+}
+
+header .row .col-sm-4 i{
+    border: 1 solid grey;
+}
+
+header ul li{
+    list-style: none;
+}
+
+/* main */
