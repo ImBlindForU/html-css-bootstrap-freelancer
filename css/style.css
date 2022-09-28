@@ -18,7 +18,7 @@ header .container-fluid{
 }
 
 header h2{
-    font-size: 1rem;
+    font-size: 1.5rem;
 }
 
 header .row .col-sm-4 i{
@@ -27,6 +27,8 @@ header .row .col-sm-4 i{
 
 header ul li{
     list-style: none;
+    margin-left: 1rem;
+    color: white;
 }
 
 /* main */
@@ -47,10 +49,10 @@ header ul li{
     border: 1px solid white;
  }
  #start h1{
-    font-size: 4rem;
+    font-size: 3rem;
  }
  #start h3{
-    font-size: 1.5rem;
+    font-size: 1rem;
  }
 
  /* portfolio section */
